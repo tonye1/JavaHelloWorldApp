@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: TonyHello
-  host: TonyHello
-  disk_quota: 1024M
+  name: TonyMetlife
+  host: TonyMetlife
+  disk_quota: 256M
